@@ -4,7 +4,7 @@
 - 21 years old.
 - 6th semester on computer science on UAEH university.
 - spa/eng
-- acc 4 distributed databases
+- acc 4 subject distributed databases
 
 <!---
 ma472168/ma472168 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
