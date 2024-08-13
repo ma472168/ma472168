@@ -2,7 +2,9 @@
 - cesar martinez.
 - mexican, HGO. student.
 - 21 years old.
-- computer science on UAEH university.
+- 6th semester on computer science on UAEH university.
+- spa/eng
+- acc 4 distributed databases
 
 <!---
 ma472168/ma472168 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
