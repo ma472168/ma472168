@@ -1,4 +1,4 @@
-<h1 align="center">Hello there 👾 Cesar Martinez</h1>
+<h1 align="center">Hello there 👾 im Cesar Martinez</h1>
 <h3 align="center">A university student from Mexico :)</h3>
 
 - 🚬 @ma472168
