@@ -1,13 +1,13 @@
-<h1 align="center">Hello there 👾 im Cesar Martinez</h1>
+<h1 align="center">Hello</h1>
 <h3 align="center">A university student from Mexico :)</h3>
 
 - 🚬 @ma472168
 - 😼 cesar martinez.
 - 🇲🇽 mexican, HGO. student.
-- 🎂 21 years old.
-- 🧑‍💻 6th semester on computer science on UAEH university.
+- 🎂 22 years old.
+- 🧑‍💻 7th semester on computer science on UAEH university.
 - 📄 spa/eng.
-- 🌱 student acc, 4 subject distributed databases.
+- 🌱 student acc.
 - 📫 Email me to **ma472168@uaeh.edu.mx**
 
 <h2 align="left">Connect with me 🤝</h2>
