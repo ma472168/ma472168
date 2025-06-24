@@ -2,11 +2,11 @@
 <h3 align="center">A university student from Mexico :)</h3>
 
 - 🚬 @ma472168
-- 😼 cesar martinez.
-- 🇲🇽 mexican, HGO. student.
+- 😼 Cesar Martinez Andrade.
+- 🇲🇽 Mexico. Pachuca, Hidalgo
 - 🎂 22 years old.
-- 🧑‍💻 7th semester on computer science on UAEH university.
-- 📄 spa/eng.
+- 🧑‍💻 8th semester on computer science on UAEH university.
+- 📄 spanish/english
 - 🌱 student acc.
 - 📫 Email me to **ma472168@uaeh.edu.mx**
 
