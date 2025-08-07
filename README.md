@@ -1,3 +1,8 @@
+# 👋 hey there, i'm cesar!
+
+```python
+# ma472168.py
+class ma472168:
     def __init__(self):
         self.name = "cesar martinez"
         self.age = 21
@@ -5,42 +10,77 @@
         self.university = "autonomous university of the state of hidalgo"
         self.degree = "bachelor of computer science"
         self.expected_graduation = "june 2026"
-        self.electives = ["multi-agent systems", "network design", "network administration"]
         self.location = "mineral de la Reforma, pachuca, hidalgo"
         self.country = "mexico"
         self.languages = ["spanish native", "conversational english"]
+```
 
-    def experience(self):
-        return {
-            "community service": "web developer and service provider in the planning department of the UAEH",
-            "personal projects": ["static web pages", "web applications with Django", "database management systems", "pdf to excel data conversion"],
-            "participations": ["hackathons", "research projects", "cpc (competitive programming competitions)"],
-            "family technical support": "providing technical support to family and friends with basic IT problems"
-        }
+---
+## 🌐 social links & profiles
 
-    def education(self):
-        return {
-            "high school": "Technical Programming at the College of Scientific and Technological Studies of the State of Hidalgo (CECyTEH)",
-            "university": "Bachelor of Computer Science at the Autonomous University of the State of Hidalgo",
-            "certifications": ["CCNAv7: Introduction to Networks (completed)", "Linux Unhatched (in progress)", "CCNA: Enterprise Networks, Security, and Automation (in progress)"]
-        }
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ma472168)
+[![LinkedIn](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ma472168)
+[![Instagram](https://img.shields.io/badge/instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ma472168)
 
-    def coding_languages(self):
-        return ["python", "java", "c++", "javascript", "html", "css", "sql"]
+---
 
-    def tools(self):
-        return ["git", "github", "visual studio code", "mysql workbench", "virtualbox", "cisco packet tracer", "adobe photoshop", "office suite"]
-    
-    def websites(self):
-        return ["github.com/ma472168", "linkedin.com/ma472168", "instagram.com/ma472168"]
+## 🧠 tech & tools
 
-    def hobbies(self):
-        return ["reading", "programming", "playing video games", "watching series and movies", "listening to music"]
+```python
+coding_languages = ["python", "java", "c++", "javascript", "html", "css", "sql"]
 
-    def skills(self):
-        return {
-            "teamwork": "ability to work in a team and collaborate with others",
-            "communication": "good verbal and written communication skills",
-            "problem solving": "ability to solve problems effectively",
-            "adaptability": "ability to adapt to new environments and learn quickly"
-        }
+tools = [
+    "git", "github", "visual studio code", 
+    "mysql workbench", "virtualbox", 
+    "cisco packet tracer", "photoshop", 
+    "office suite"
+]
+```
+
+---
+
+## 📚 education & certifications
+
+```python
+education = {
+    "high_school": "Technical Programming at CECyTEH",
+    "university": "Bachelor of CS at UAEH"
+}
+
+certifications = [
+    "CCNAv7: Introduction to Networks ✅",
+    "Linux Unhatched 🐧 (in progress)",
+    "CCNA: Security & Automation 🔐 (in progress)"
+]
+```
+
+---
+
+## 🛠️ experience
+
+- 👨‍💻 **Community Service**: Web developer for the UAEH Planning Department  
+- 🛠️ **Projects**: Static pages, Django apps, PDF → Excel data tools  
+- ⚔️ **Competitions**: Hackathons, CPC (competitive programming)  
+- 🧓 **Support**: Tech support to family and friends (you know the drill 😅)
+
+---
+
+## ✨ skills & vibes
+
+| Skill              | Level             |
+|--------------------|------------------|
+| 💬 Communication   | 📈📈📈📈☆           |
+| 🤝 Teamwork        | 📈📈📈📈📈           |
+| 🧠 Problem solving | 📈📈📈📈☆           |
+| 🔄 Adaptability    | 📈📈📈📈📈           |
+
+
+---
+
+## 🎮 hobbies & fun stuff
+
+```python
+hobbies = ["reading", "programming", "league of legends", "hbomax&netflix", "spotify"]
+```
+
+---
