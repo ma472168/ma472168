@@ -1,44 +1,46 @@
-
     def __init__(self):
-        self.nombre = "cesar martinez"
-        self.edad = 21
+        self.name = "cesar martinez"
+        self.age = 21
         self.email = "ma472168@uaeh.edu.mx"
-        self.universidad = "universidad autonoma del estado de hidalgo"
-        self.carrera = "ingenieria en sistemas computacionales"
-        self.optativas = ["sistemas multiagentes", "diseño de redes", "administracion de redes"]
-        self.ubicacion = "mineral de la Reforma, Pachuca, Hidalgo"
-        self.pais = "mexico"
-        self.disponibilidad = "disponible para trabajar en cualquier parte de la republica mexicana"
-        self.idiomas = ["español", "ingles conversacional"]
+        self.university = "autonomous university of the state of hidalgo"
+        self.degree = "bachelor of computer science"
+        self.expected_graduation = "june 2026"
+        self.electives = ["multi-agent systems", "network design", "network administration"]
+        self.location = "mineral de la Reforma, pachuca, hidalgo"
+        self.country = "mexico"
+        self.languages = ["spanish native", "conversational english"]
 
-    def experiencia(self):
+    def experience(self):
         return {
-            "servicio social": "desarrollador web en el departamento de planeacion de la universidad",
-            "proyectos personales": ["paginas web estaticas", "aplicaciones web con Django", "sistemas de gestion de bases de datos"],
-            "participaciones": ["hackatones (uaeh)", "concursos de programacion (uaeh)", "proyectos de investigacion", "cpcs (competencias de programacion competitiva)"],
-            "soporte tecnico familiares": "brindar soporte tecnico a familiares y amigos en problemas informaticos basicos"
-        }
-    
-    def educacion(self):
-        return {
-            "bachillerato": "Técnico en Programación en el Colegio de Estudios Científicos y Tecnológicos del Estado de Hidalgo",
-            "universidad": "licenciatura en ciencias computacionales en la Universidad Autónoma del Estado de Hidalgo", 
-            "certificaciones": ["CCNA (Cisco Certified Network Associate)"]
+            "community service": "web developer and service provider in the planning department of the UAEH",
+            "personal projects": ["static web pages", "web applications with Django", "database management systems", "pdf to excel data conversion"],
+            "participations": ["hackathons", "research projects", "cpc (competitive programming competitions)"],
+            "family technical support": "providing technical support to family and friends with basic IT problems"
         }
 
-    def lenguajes(self):
+    def education(self):
+        return {
+            "high school": "Technical Programming at the College of Scientific and Technological Studies of the State of Hidalgo (CECyTEH)",
+            "university": "Bachelor of Computer Science at the Autonomous University of the State of Hidalgo",
+            "certifications": ["CCNAv7: Introduction to Networks (completed)", "Linux Unhatched (in progress)", "CCNA: Enterprise Networks, Security, and Automation (in progress)"]
+        }
+
+    def coding_languages(self):
         return ["python", "java", "c++", "javascript", "html", "css", "sql"]
+
+    def tools(self):
+        return ["git", "github", "visual studio code", "mysql workbench", "virtualbox", "cisco packet tracer", "adobe photoshop", "office suite"]
     
-    def herramientas(self):
-        return ["git", "github", "visual studio code", "mysql workbench", "virtualbox", "cisco packet tracer"]
-    
+    def websites(self):
+        return ["github.com/ma472168", "linkedin.com/ma472168", "instagram.com/ma472168"]
+
     def hobbies(self):
-        return ["leer", "programar", "jugar videojuegos", "ver series y peliculas", "escuchar musica"]
-    
-    def habilidades(self):
+        return ["reading", "programming", "playing video games", "watching series and movies", "listening to music"]
+
+    def skills(self):
         return {
-            "trabajo en equipo": "capacidad para trabajar en equipo y colaborar con otros",
-            "comunicacion": "buenas habilidades de comunicacion verbal y escrita",
-            "resolucion de problemas": "habilidad para resolver problemas de manera efectiva",
-            "adaptabilidad": "capacidad para adaptarse a nuevos entornos y aprender rapidamente"
+            "teamwork": "ability to work in a team and collaborate with others",
+            "communication": "good verbal and written communication skills",
+            "problem solving": "ability to solve problems effectively",
+            "adaptability": "ability to adapt to new environments and learn quickly"
         }
