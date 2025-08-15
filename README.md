@@ -1,5 +1,9 @@
 # 👋 hey there, i'm cesar!
 
+```bash
+cowsay "ey q ubo" | lolcat
+```
+
 ```python
 # ma472168.py
 class ma472168:
