@@ -1,7 +1,7 @@
 # 👋 hey there, i'm cesar!
 
 ```bash
-xen@xxen:~$ cowsay "ey q ubo" | lolcat
+cesarin@lamaleducada2gbram:~$ cowsay "ey q ubo" | lolcat
 ```
 
 ```python
