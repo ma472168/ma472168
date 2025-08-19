@@ -63,7 +63,7 @@ certifications = [
 
 ## 🛠️ experience
 
-- 👨‍💻 **Community Service**: Web developer for the UAEH Planning Department  
+- 👨‍💻 **Community Service**: Web developer for the UAEH Planning Department for 400 hours (150/400)  
 - 🛠️ **Projects**: Static pages, Django apps, PDF → Excel data tools  
 - ⚔️ **Competitions**: Hackathons, CPC (competitive programming)  
 - 🧓 **Support**: Tech support to family and friends (you know the drill 😅)
