@@ -20,6 +20,8 @@ class ma472168:
         self.relationship = :(){ :|:& };: # si we es un forkB
 ```
 
+### 🎮 league of legends stats
+![LoL Stats](https://github-readme-lol-stats.vercel.app/api?summoner=xenredda&tagline=meow&region=la1&theme=dark&show_rank=true&show_mastery=true)
 
 ---
 ## 🌐 social links & profiles
