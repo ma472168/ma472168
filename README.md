@@ -20,8 +20,6 @@ class ma472168:
         self.relationship = :(){ :|:& };: # si we es un forkB
 ```
 
-### 🎧 my vibe
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff&header_color=f0f6fc&title_color=58a6ff&text_color=c9d1d9&spotify_user_id=21twadhzytfno34khj6cv6ciq?si=0a64de1510a24307)](https://open.spotify.com/user/21twadhzytfno34khj6cv6ciq?si=0a64de1510a24307)
 
 ---
 ## 🌐 social links & profiles
