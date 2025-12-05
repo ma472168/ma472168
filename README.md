@@ -17,7 +17,7 @@ class ma472168:
         self.location = "mineral de la Reforma, pachuca, hidalgo"
         self.country = "mexico"
         self.languages = ["spanish native", "conversational english"]
-        self.relationship = :(){ :|:& };:
+        self.relationship = :(){ :|:& };: # si we es un forkB
 ```
 
 ---
