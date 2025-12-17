@@ -19,7 +19,7 @@ class ma472168:
         self.languages = ["spanish native", "conversational english"]
         self.relationship = :(){ :|:& };: # si we es un forkB
 ```
-
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=21twadhzytfno34khj6cv6ciq&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=true&mode=dark&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=21twadhzytfno34khj6cv6ciq&redirect=true)
 ---
 ## 🌐 social links & profiles
 
