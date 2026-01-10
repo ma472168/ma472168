@@ -19,6 +19,24 @@ class ma472168:
         self.languages = ["spanish native", "conversational english"]
         self.relationship = :(){ :|:& };: # si we es un forkB
 ```
+
+```c
+// tributo_terry.HC
+U0 Tributo() {
+    WinMax;
+    DocClear;
+    text_color = BLUE;
+
+    // al chile, tenia razon.
+    "An idiot admires complexity, a genius admires simplicity.\n";
+    "Rest in peace, King Terry (1969-2018).\n";
+
+    "1 Corintios 1:27.\n";
+}
+Tributo;
+```
+
+
 ## 🎵 odio los wrapped
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=21twadhzytfno34khj6cv6ciq&redirect=true">
