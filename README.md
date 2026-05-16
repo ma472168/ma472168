@@ -9,7 +9,7 @@ cesarin@lamaleducada2gbram:~$ cowsay "ey q ubo" | lolcat
 class ma472168:
     def __init__(self):
         self.name = "cesar martinez"
-        self.age = 22
+        self.age = 23
         self.email = "ma472168@uaeh.edu.mx"
         self.university = "autonomous university of the state of hidalgo"
         self.degree = "bachelor of computer science"
